@@ -7,7 +7,7 @@
     <li>🏎️ Sobre mim: Adoro assistir Fórmula 1</li>
 </ul>
 <br>
-<h2>⚙️ Teck Stack (Ferramentas que estão no meu dia a dia)</h2>
+<h2>⚙️ Tech Stack (Ferramentas que estão no meu dia a dia)</h2>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
