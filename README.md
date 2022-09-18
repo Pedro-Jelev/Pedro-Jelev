@@ -20,20 +20,20 @@
 <br>
 
 <h2>GitHub Analytics</h2>
+<p>
 
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jelev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pedro-Jelev&theme=radical&locale=pt-br)
+</p>
 
 <h2>Contatos</h2>
 <p>
 <a href="https://instagram.com/pedro_jelev" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
-<a href="www.linkedin.com/in/joao-pedro-jelev" target="_blank">
+<a href="https://www.linkedin.com/in/joao-pedro-jelev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="discordapp.com/users/Pedro-Jelev#7875" target="_blank">
+<a href="https://discordapp.com/users/Pedro-Jelev#7875" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord" alt="linkedin"/>
 </a>
 </p>
@@ -42,6 +42,7 @@
 
 
 <!--
+![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jelev&theme=radical&height=800px)
 **Pedro-Jelev/Pedro-Jelev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
