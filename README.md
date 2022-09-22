@@ -2,7 +2,7 @@
 
 <h2>ATENÇÃO: PÁGINA EM OBRAS</h2>
 <p>Acredito que o receio do julgamento em fazer um projeto que não fique tão bom é comum entre aqueles que, como eu, estão iniciando como devs, mas decidi cair de cabeça nessa incrível jornada. Estou trabalhando nas melhorias desta página e peço que me perdoem caso encontrem alguma falha, melhor que isso, seria de grande ajudar receber dicas de corrigir os bugs. Em "Um pouco sobre mim" você saberá como me contatar ;)</p>
-<img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQajp3t7CoWZYIeo69quabJzQQvoUFib6Vm1g&usqp=CAU" alt="Imagem aviso de obras" />
+<img scr="./img/construction.png" alt="Imagem aviso de obras" />
 
 
 <h2>Um pouco sobre mim</h2>
