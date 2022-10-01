@@ -2,7 +2,8 @@
 
 <h2>ATENÇÃO: PÁGINA EM OBRAS</h2>
 <p>Acredito que o receio do julgamento em fazer um projeto que não fique tão bom é comum entre aqueles que, como eu, estão iniciando como devs, mas decidi cair de cabeça nessa incrível jornada. Estou trabalhando nas melhorias desta página e peço que me perdoem caso encontrem alguma falha, melhor que isso, seria de grande ajudar receber dicas de corrigir os bugs. Em "Um pouco sobre mim" você saberá como me contatar ;)</p>
-<img scr="/img/construction.png" alt="Imagem aviso de obras" />
+
+![Imgur](https://www.institutomix.com.br/wp-content/uploads/2019/04/mestre-de-obras-01.png)
 
 
 <h2>Um pouco sobre mim</h2>
